@@ -15,7 +15,7 @@ void main() {
   );
 }
 
-enum Gender { male, female }
+enum Gender { male, female  }
 
 class SplashScreen extends StatefulWidget {
   @override
